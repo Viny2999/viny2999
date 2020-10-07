@@ -1,4 +1,5 @@
-### Welcome to Vinícius Github Profile!
+### Welcome to Vinícius Menezes Github Profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viny2999" alt="viny2999" /> </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
