@@ -1,4 +1,4 @@
-### Welcome to Vinícius Menezes Github Profile!
+### Vinícius Menezes Github Profile
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viny2999" alt="viny2999" /> </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
   </a>
 </p>
 
-### Abstract
+### Resume
 
-- 👨‍💻 I'm currently working full-time at **Meta**.
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/viny2999/">LinkedIn</a>.
+- I'm currently working full-time at **Meta**.
+- Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/viny2999/">LinkedIn</a>.
 
 ### Languages and Tools
 
