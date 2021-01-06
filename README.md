@@ -32,7 +32,7 @@
     target="_blank"
   >
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_plain_logo_icon_146454.png"
       alt="javascript"
       width="40"
       height="40"
@@ -40,7 +40,7 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png"
       alt="typescript"
       width="40"
       height="40"
@@ -64,7 +64,7 @@
   </a>
   <a href="https://angular.io/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg"
+      src="https://cdn.icon-icons.com/icons2/2415/PNG/512/angularjs_original_logo_icon_146649.png"
       alt="angular"
       width="40"
       height="40"
@@ -80,7 +80,7 @@
   </a>
   <a href="https://ionicframework.com/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/ionic/ionic-original-wordmark.svg"
+      src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ionic_original_logo_icon_146462.png"
       alt="ionic"
       width="40"
       height="40"
