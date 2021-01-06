@@ -48,7 +48,7 @@
   </a>
   <a href="https://www.java.com/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg"
+      src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"
       alt="java"
       width="40"
       height="40"
@@ -56,7 +56,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png"
       alt="nodejs"
       width="40"
       height="40"
@@ -72,7 +72,7 @@
   </a>
   <a href="https://vuejs.org/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original-wordmark.svg"
+      src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_wordmark_logo_icon_146305.png"
       alt="vue"
       width="40"
       height="40"
