@@ -88,7 +88,7 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png"
       alt="mongodb"
       width="40"
       height="40"
@@ -96,7 +96,7 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg"
+      src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png"
       alt="mysql"
       width="40"
       height="40"
