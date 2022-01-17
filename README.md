@@ -19,8 +19,8 @@
 
 ### Resume
 
-- I'm currently working full-time at **Meta**.
-- Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/viny2999/">LinkedIn</a>.
+- I'm currently working full-time at **OLX**.
+- Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/ovinymenezes/">LinkedIn</a>.
 
 ### Languages and Tools
 
