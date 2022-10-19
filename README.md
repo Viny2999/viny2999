@@ -19,7 +19,7 @@
 
 ### Resume
 
-- I'm currently working full-time at **OLX**.
+- I'm currently working full-time at **Loft**.
 - Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/ovinymenezes/">LinkedIn</a>.
 
 ### Languages and Tools
